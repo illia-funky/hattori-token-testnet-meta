@@ -1,0 +1,7 @@
+{
+  "name": "Hattori Testnet 4",
+  "description": "Hattori Testnet Description",
+  "symbol": "HAT-TEST-4",
+  "decimals": "9",
+  "image": "https://raw.githubusercontent.com/illia-funky/hattori-token-testnet-meta/main/metadata/icon.png"
+}
